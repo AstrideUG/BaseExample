@@ -20,6 +20,7 @@
         <module>Basic</module>
         <module>Chain</module>
         <module>Transform</module>
+        <module>Config</module>
     </modules>
 
 </project>
